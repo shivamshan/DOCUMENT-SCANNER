@@ -33,4 +33,4 @@ This is done by first extracting the **contours** from the image and then use th
 For more details and examples, view the .ipynb file.
 </br>
 </br>
-Also the code for FOUR-POINT TRANSFORM TECHNIQUE and the inspiration for this project was acquired from <a href="https://www.pyimagesearch.com/2014/08/25/4-point-opencv-getperspective-transform-example/">pyimagesearch.</a>
+**Also the code for FOUR-POINT TRANSFORM TECHNIQUE and the inspiration for this project was acquired from **<a href="https://www.pyimagesearch.com/2014/08/25/4-point-opencv-getperspective-transform-example/">pyimagesearch.</a>
