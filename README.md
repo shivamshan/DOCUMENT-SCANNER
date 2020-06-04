@@ -29,3 +29,5 @@ This is done by first extracting the **contours** from the image and then use th
 ## 5. Final scanned image to be displayed
 <img src="https://github.com/shivamshan/DOCUMENT-SCANNER/blob/master/5.png">
 </br>
+
+## For more details and examples, view the .ipynb file.
